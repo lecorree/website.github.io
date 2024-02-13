@@ -1,0 +1,17 @@
+.btn-primary {
+    display: inline-block;
+    font-family: sans-serif;
+    background-color: rgb(245, 165, 178);
+    padding: 16px 36px;
+    border-radius: 50px;
+    color: white;
+    margin-left: 60px;
+    letter-spacing: 0.02em;
+}
+
+.btn-primary:hover {
+    background-color: white;
+    border: 3px rgb(245, 165, 178)solid;
+    color: rgb(245, 165, 178);
+    transition: .2s;
+}
